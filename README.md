@@ -5,7 +5,6 @@
 [![Language](https://img.shields.io/badge/Python-darkblue.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![ML Tool](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Framework](https://img.shields.io/badge/sklearn-darkorange.svg?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/index.html)
-![reposize](https://img.shields.io/github/repo-size/Oyebamiji-Micheal/Dental-Open-Bite-Detection)
 [![Topic](https://img.shields.io/badge/Deep%20Learning-lightblue.svg?style=flat)]()
 [![Model](https://img.shields.io/badge/CNN-lightgreen.svg?style=flat)]()
 [![Model](https://img.shields.io/badge/InceptionV3-4CAF50.svg?style=flat)](https://arxiv.org/abs/1512.00567)
@@ -82,5 +81,5 @@ The performance of the three CNN variants was evaluated using precision, recall,
 </table>
 
 <p align="justify">
-These results indicate relatively modest performance across all models, which can be attributed to the limited size of the dataset and class imbalance. However, this project provides a solid foundation for future research and development in automated open bite detection. Future improvements might focus on expanding the dataset to include a larger and more diverse set of dental images, which is expected to enhance the model performance metrics significantly.
+Although these results indicate relatively modest performance across all models, which can be attributed to the limited size of the dataset and class imbalance, this project nonetheless provides a solid foundation for future research and development in automated open bite detection. Future improvements might focus on expanding the dataset to include a larger and more diverse set of dental images, which is expected to enhance the model performance metrics significantly.
 </p>
